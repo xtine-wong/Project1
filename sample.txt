@@ -1,4 +1,4 @@
 This is a new file using .txt instead of .text.
 My name is Christine and I like to git
 
-I also like python, R, and, of course, my cat!! oops...
+I also like python, R, and, of course, my cat!!
